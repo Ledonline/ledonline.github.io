@@ -1,0 +1,39 @@
+body{
+  background-color: #0B173B;
+}
+
+div{
+  text-align: center;
+}
+
+#branco{
+  background-color: white;
+  width: 1150px;
+  height: 850px;
+  color: #111;
+  border-radius: 10px;
+  font-size: 25px;
+  text-align: justify;
+  text-indent: 3em;
+}
+
+#regras{
+  background-color: white;
+  width: 1150px;
+  height: 800px;
+  color: #111;
+  border-radius: 10px;
+  font-size: 25px;
+  text-align: justify;
+  text-indent: 3em;
+}
+#final{
+  background-color: white;
+  width: 1150px;
+  height: 650px;
+  color: #111;
+  border-radius: 10px;
+  font-size: 25px;
+  text-align: justify;
+  text-indent: 3em;
+}
